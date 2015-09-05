@@ -14,7 +14,7 @@ $(document).ready(function() {
 	$(window).scroll(function() {
 		var y = $(window).scrollTop();
 		if (y >= 400) {
-			$('main #mySkills li').addClass('animate');
+			$('main #mySkills ul').addClass('animate');
 		}
 		if (y >= 800) {
 			$('main #travelSydney .col1').addClass('animate');
