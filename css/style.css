@@ -201,6 +201,11 @@ footer .socialMedia li {
 footer .divLine {
 	padding-bottom: 30px;
 }
+footer p {
+	font-size: 16px;
+	padding: 10px 0;
+}
+
 footer .socialMedia li a {
 	display: block;
 	color: #c1cac5;
